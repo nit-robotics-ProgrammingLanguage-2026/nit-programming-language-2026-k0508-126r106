@@ -12,6 +12,6 @@ int main(void)
             if((n%7)==0) printf("!!");
             }
         else printf("No");
-    /* TODO: 課題0508 */
+    /* TODO: 課題0508 */}
     return 0;
 }
